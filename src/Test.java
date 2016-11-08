@@ -3,5 +3,5 @@
  */
 public class Test {
 
-    int jkjk;
+    int jkjk =0;
 }
